@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**KitsuneSolar/KitsuneSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a system administrator and web developer. I am writing articles on system administration and the development of various systems, applications and servers.
 
-Here are some ideas to get you started:
+#### Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Site](https://kitsune.solar/)
+- [Donations](https://donation-form.github.io/)
+- [mail@kitsune.solar](mailto:mail@kitsune.solar)
+
+#### Social Networks
+
+- [Twitter](https://twitter.com/KitsuneSolar)
+- [Facebook](https://facebook.com/KitsuneSolar)
+- [Instagram](https://instagram.com/KitsuneSolar)
+- [LinkedIn](https://linkedin.com/in/KitsuneSolar)
+- [Telegram](https://t.me/KitsuneSolar)
+- [Twitch](https://twitch.tv/KitsuneSolar)
+- [Vk](https://vk.com/KitsuneSolar)
+
+#### Development
+
+- [GitHub](https://github.com/KitsuneSolar)
+- [GitLab](https://gitlab.com/KitsuneSolar)
